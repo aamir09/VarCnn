@@ -22,7 +22,7 @@ Collecting the data has been a ponderous task, there are no open-source resource
 #### Infrences 
 
 
-![image](https://user-images.githubusercontent.com/62461730/148567181-8fe0d201-e263-4562-855c-0ee709df35bc.png)
+![image](https://user-images.githubusercontent.com/62461730/148567838-655c6a91-091d-45e9-a5ca-512be0c5caa6.png)
 ![image](https://user-images.githubusercontent.com/62461730/148567155-baa94a03-87a8-42ea-b382-1d57674d81bd.png)
 ![image](https://user-images.githubusercontent.com/62461730/148567265-2b258af3-18bd-4c0c-8cb8-4c3edef3c5ca.png)
 ![image](https://user-images.githubusercontent.com/62461730/148567295-4030167a-49f6-4b58-bfda-ea32cce8a60d.png)
