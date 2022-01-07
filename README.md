@@ -37,6 +37,10 @@ In Figure 5, the original image corresponds to a foul but is classified as a cle
 
 ### Real-Time Inference Example can be seen in the article.
 
+### Future Work
+
+The future work is improving the model by increasing the volume of the data as well as the variety of fouls. In this project, we have studied sliding tackles. Once a model with better accuracy is achieved, it may become the next advancement in football’s decision making.
+
 
 
 
