@@ -19,22 +19,19 @@ Collecting the data has been a ponderous task, there are no open-source resource
 
 ![image](https://user-images.githubusercontent.com/62461730/148567078-cc86c3c0-737c-4cc2-a146-15ac79b64dd1.png)
 
-#### Infrences 
+### Infrences 
 
-
-![image](https://user-images.githubusercontent.com/62461730/148567838-655c6a91-091d-45e9-a5ca-512be0c5caa6.png)
-![image](https://user-images.githubusercontent.com/62461730/148567155-baa94a03-87a8-42ea-b382-1d57674d81bd.png)
-![image](https://user-images.githubusercontent.com/62461730/148567265-2b258af3-18bd-4c0c-8cb8-4c3edef3c5ca.png)
-![image](https://user-images.githubusercontent.com/62461730/148567295-4030167a-49f6-4b58-bfda-ea32cce8a60d.png)
+![image](https://user-images.githubusercontent.com/62461730/148568074-3fef3874-6aeb-4afb-824b-f16971a5778e.png)
+![image](https://user-images.githubusercontent.com/62461730/148568180-bc0db283-b632-423e-85d8-f36c823b7aed.png)
+![image](https://user-images.githubusercontent.com/62461730/148568248-80108b5b-344d-42d7-a42a-33dc298375d2.png)
+![image](https://user-images.githubusercontent.com/62461730/148568332-0568f8f6-45cd-4480-8983-b9f51d8e98c5.png)
 
 The above inference is a case where the model predicted the classes correctly. The focus has been on player postures and the initial contacts. In Figure 4, you can clearly see it takes into account both the players postures and initial point of contact. Figure 3, shows that the initial point of contact with the player as well the ball of the opposition player is taken into account for the decision making.
-
-![image](https://user-images.githubusercontent.com/62461730/148567330-01507880-18d0-4683-8cc6-532da9c172f3.png)
+![image](https://user-images.githubusercontent.com/62461730/148568407-01343c29-877c-49af-a357-dc9fc5a84f2e.png)
 
 In Figure 5, the original image corresponds to a foul but is classified as a clean tackle, observe that the initial point of contact is not considered at all, some focus is on the postures but mainly on the green grass. This is pretty common in the images classified in the wrong classes. This issue can be resolved if more data is available for both classes and the quality of data improves.
 
-### Real-Time Inference Example
-![image](https://user-images.githubusercontent.com/62461730/148567439-0b751257-e7c6-45c9-955e-e7c0f461330e.png)
+### Real-Time Inference Example can be seen in the article.
 
 
 
